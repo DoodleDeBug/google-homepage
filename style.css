@@ -35,10 +35,12 @@ li a {
     position: fixed;
     top: 0;
     width: 100%;
+    padding: 10px;
   }
 
   ul.down {
     position: fixed;
     bottom: 0;
     width: 100%;
+    padding: 10px;
   }
